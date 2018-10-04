@@ -23,5 +23,5 @@ Finally, you will need to install a few packages. I recommend opening R Studio a
 
 
 ### Files 
-* Red_Wine_exploration.html
-* Red_Wine_exploration.rmd
+1) Red_Wine_exploration.html: Html file of analysis that can be viewed in web browser. 
+2) Red_Wine_exploration.rmd: R studio file of analysis
