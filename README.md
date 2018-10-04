@@ -16,12 +16,12 @@ After installing R, you will need to download and install R Studio.
 Finally, you will need to install a few packages. I recommend opening R Studio and installing the following packages using the command line.
 
 
-install.packages("ggplot2", dependencies = T) 
-install.packages("knitr", dependencies = T)
-install.packages("dplyr", dependencies = T)
+* install.packages("ggplot2", dependencies = T) 
+* install.packages("knitr", dependencies = T)
+* install.packages("dplyr", dependencies = T)
 
 
 
 ### Files 
-Red_Wine_exploration.html
-Red_Wine_exploration.rmd
+* Red_Wine_exploration.html
+* Red_Wine_exploration.rmd
